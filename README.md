@@ -1,12 +1,12 @@
-# 💫 Hi 👋, I'm Imran Alam
+# 💫 Hi 👋, I'm Anmol Tyagi
 **A passionate Full Stack Developer || AI Engineer**
 
-Email Me 👉 ✉️ **tyagiji2005@hmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **tyagiji2005@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** Agentic AI
 - 🤔 **I’m looking for help with:** Collaboration
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** tyagiji2005@hmail.com
+- 📫 **How to reach me:** tyagiji2005@gmail.com
 - 😄 **Pronouns:** Tyagi ji
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
